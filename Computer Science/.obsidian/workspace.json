@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a588ed4ea523f59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef0c66764c0f8dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef71f8af57b812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex/LaTex Math grammar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LaTex Math grammar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8722a7c05fe6a49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "69cd92394ef9d5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a3bebb84a4fd08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72a2f8283282a8b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fbe7557fd3d3f08e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82711b98c94375ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4189bd4c595f2a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87434ced28beed3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LaTex/LaTex Math grammar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LaTex Math grammar"
+            }
+          },
+          {
+            "id": "d3860cc405ca297e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LaTex/LaTex Math grammar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LaTex Math grammar"
+            }
+          },
+          {
+            "id": "7cff84ba6dd8d8ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1aaf460f8b67a89f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LaTex/LaTex Math grammar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LaTex Math grammar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a6a3bebb84a4fd08",
+  "lastOpenFiles": [
+    "DailyNote/2025-10-05.md",
+    "DailyNote",
+    "Machine learning/regression.md",
+    "LaTex-Greek-Alphabet.png",
+    "Machine learning/neural network.md",
+    "Templates/template1.md",
+    "LaTex/LaTex Math grammar.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Courses/pattern recognize.md",
+    "LaTex",
+    "Courses/cs61a/Cats.md",
+    "Classic algorithm/Divide and Conquer.md",
+    "Templates",
+    "Classic algorithm/Dynamic Programming.md",
+    "Classic algorithm/Recursion.md",
+    "Deep learning/activation.md",
+    "Deep learning/back propaganda.md",
+    "Machine learning/classification.md",
+    "Machine learning/clustering.md",
+    "Welcome.md",
+    "Draft",
+    "Courses/cs61a",
+    "Courses",
+    "Classic algorithm",
+    "Deep learning"
+  ]
+}
