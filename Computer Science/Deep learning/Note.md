@@ -1,0 +1,1 @@
+这一部分主要基于Bishop的new book Deep Learning Foundations and Concepts进行study record
